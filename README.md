@@ -17,6 +17,6 @@ A Collection of Short, Unrelated Java Scripts
    Given a matrix of 1's, 1's being path, and 0's, 0's being walls, a start and an end this program will find the longest <br/> path from the start to the end whilst avoiding travelled indexes.<br/>
   Problem: https://www.techiedelight.com/find-longest-possible-route-matrix/
   # FindASpecialPath
-   Given an integer matrix, a start and an end this program with output a path, if there lies a possible path, from the <br/>
+   Given an integer matrix, a start and an end this program will output a path, if there lies a possible path, from the <br/>
    start to the end whilst following the following conditions. <br/> 1: The distance you can travel from a given position is based on the integer value associated with said position. <br/> 2: You cannot travel diagonally. <br/>3: You cannot leave the matrix. <br/>
    Problem: https://www.techiedelight.com/find-path-source-destination-matrix-satisfies-given-constraints/ 
