@@ -14,6 +14,6 @@ A Collection of Short, Unrelated Java Scripts
   Knight Tour: When a knight/horse jumps on all squares on a chess board without jumping on a square that has been traveled. <br/> 
   Problem: https://www.techiedelight.com/print-possible-knights-tours-chessboard/ 
  # LongestMatrixPath
-    Given a matrix of 1's, 1's being path, and 0's, 0's being walls, a start and an end this program will find the longest <br/> path from the start to the end whilst avoiding travelled indexes.<br/>
+   Given a matrix of 1's, 1's being path, and 0's, 0's being walls, a start and an end this program will find the longest <br/> path from the start to the end whilst avoiding travelled indexes.<br/>
   Problem: https://www.techiedelight.com/find-longest-possible-route-matrix/
   
