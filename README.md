@@ -28,6 +28,6 @@ A Collection of Short, Unrelated Java Scripts
   Problem: https://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/
 # FindAllParentheses
   Given a positive integer n this program will output all the possible parenthese couples of length n. <br/>
-  Parentheses Couples Ex. () or ()((()) not (() ie. All open parentheses must have a closed parenthese counterpart.  <br/>
+  Parentheses Couples Ex. () or ()(()) not (() ie. All open parentheses must have a closed parenthese counterpart.  <br/>
   Problem: https://www.techiedelight.com/find-strings-given-length-containing-balanced-parentheses/
  
