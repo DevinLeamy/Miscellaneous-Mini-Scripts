@@ -22,12 +22,12 @@ public class FindTheRightNumbers {
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-        int length = Integer.parseInt(in.nextLine());
-        int sum = Integer.parseInt(in.nextLine());
-        if (sum < length){
+        int N = Integer.parseInt(in.nextLine());
+        int S = Integer.parseInt(in.nextLine());
+        if (S < N){
             System.out.println("INVALID INPUT");
         } else {
-            findNumbers(length, 0, sum, 0, new StringBuilder());
+            findNumbers(N, 0, S, 0, new StringBuilder());
             System.out.println("Total: " + counter);
         }
     }
