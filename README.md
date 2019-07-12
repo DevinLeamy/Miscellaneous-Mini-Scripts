@@ -31,5 +31,5 @@ A Collection of Short, Unrelated Java Scripts
   Parentheses Couples Ex. () or ()(()) not (() ie. All open parentheses must have a closed parenthese counterpart.  <br/>
   Problem: https://www.techiedelight.com/find-strings-given-length-containing-balanced-parentheses/
  # FindTheRightNumber
-  Given a length N and a sum S this program will output all the integers composed of digits 1 - 9 with length N and a sum of S. <br/>
+  Given a length N and a sum S this program will output all the integers composed of digits 0 - 9 with length N and a sum of S. <br/>
   Problem: https://www.techiedelight.com/find-all-n-digit-numbers-given-sum-digits/
