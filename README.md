@@ -26,3 +26,8 @@ A Collection of Short, Unrelated Java Scripts
 # WhatAreThePossibleStrings
   Given a string of 1's, 0's and ?'s, ?'s being a variable that holds either a 0 or a 1, this program will print all possible strings. <br/>
   Problem: https://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/
+# FindAllParentheses
+  Given a positive integer n this program will output all the possible parenthese couples. <br/>
+  Parentheses Couples Ex. () or ()((()) not (() ie. All open parentheses must have a closed parenthese counterpart.  <br/>
+  Problem: https://www.techiedelight.com/find-strings-given-length-containing-balanced-parentheses/
+ 
