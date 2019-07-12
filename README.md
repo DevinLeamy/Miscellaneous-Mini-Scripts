@@ -24,5 +24,5 @@ A Collection of Short, Unrelated Java Scripts
   Given a matrix of 1's and 0's, 1's being path and 0's being walls, a start and an end this program with output the number <br/> of ways to reach the end from the start without visiting the same position twice. <br/>
   Problem: https://www.techiedelight.com/find-total-number-unique-paths-maze-source-destination/
 # WhatAreThePossibleStrings
-  Given a string of 1's 0's and ?'s, ?'s being a variable that hold either 0 or 1, this program will print all possible strings. <br/>
+  Given a string of 1's, 0's and ?'s, ?'s being a variable that holds either a 0 or a 1, this program will print all possible strings. <br/>
   Problem: https://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/
