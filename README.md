@@ -33,3 +33,8 @@ A Collection of Short, Unrelated Java Scripts
  # FindTheRightNumber
   Given a length N and a sum S this program will output all the integers composed of digits 0 - 9 with length N and a sum of S. <br/>
   Problem: https://www.techiedelight.com/find-all-n-digit-numbers-given-sum-digits/
+  # Google's Code Jam Problems
+   Qualification Round Questions <br/>
+   Problems: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705 <br/>
+   I have yet to do the last problem as it is a "interactive problem"
+  
