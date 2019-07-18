@@ -34,10 +34,11 @@ A Collection of Short, Unrelated Java Scripts
   Given a length N and a sum S this program will output all the integers composed of digits 0 - 9 with length N and a sum of S. <br/>
   Problem: https://www.techiedelight.com/find-all-n-digit-numbers-given-sum-digits/
   # Google's Code Jam Problems
-   Qualification Round Questions <br/>
+   2019 Qualification Round Questions <br/>
    Problems: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705 <br/>
-   I have yet to do the last problem as it is a "interactive problem"
+   I have yet to do the last problem as it is an "interactive problem".
   # LCS (Longest-Common-Sequence)
    Given two strings this program will output the length of the longest common sequence (LCS). <br/>
    Longest Common Sequence: The longest sequence of characters that is repeated between both strings <br/>Ex. LCS("ABBBC", "DAACBC") = 3 ("ABC") <br/>
    Problem: https://www.techiedelight.com/longest-common-subsequence/
+  
