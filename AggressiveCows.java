@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AggresiveCows {
+public class AggressiveCows {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int T = Integer.parseInt(in.nextLine()); //Number of test cases
