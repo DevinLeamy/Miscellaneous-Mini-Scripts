@@ -41,6 +41,6 @@ A Collection of Short, Unrelated Java Scripts
    Given two strings this program will output the length of the longest common sequence (LCS). <br/>
    Longest Common Sequence: The longest sequence of characters that is repeated between both strings <br/>Ex. LCS("ABBBC", "DAACBC") = 3 ("ABC") <br/>
    Problem: https://www.techiedelight.com/longest-common-subsequence/
-  # AggresiveCows
+  # AggressiveCows
   Given N cows and the position of C cages let each cow be put in a pen sutch that the cows are of maximum length <br/> from each other. <br/>
   Problem: https://www.spoj.com/problems/AGGRCOW/
