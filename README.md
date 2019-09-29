@@ -36,7 +36,6 @@ A Collection of Short, Unrelated Java Scripts
   # Google's Code Jam Problems
    2019 Qualification Round Questions <br/>
    Problems: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705 <br/>
-   I have yet to do the last problem as it is an "interactive problem".
   # LCS (Longest-Common-Sequence)
    Given two strings this program will output the length of the longest common sequence (LCS). <br/>
    Longest Common Sequence: The longest sequence of characters that is repeated between both strings <br/>Ex. LCS("ABBBC", "DAACBC") = 3 ("ABC") <br/>
