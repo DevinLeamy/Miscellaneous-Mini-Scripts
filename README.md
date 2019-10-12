@@ -1,6 +1,10 @@
 # Miscellaneous-Mini-Scripts
 A Collection of Short and Unrelated Java Scripts
 
+# OpenGmail
+This program accesses your gmail account and prints out the contents of your <br/> inbox in a formatted fashion, through the use of the JavaMail Library 
+
+
 # AddLargeStrings
   This program will take two strings of numbers, however large, and add them together outputing the resulting string.
 # PlaceNQueens
