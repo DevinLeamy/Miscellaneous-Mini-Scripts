@@ -1,5 +1,5 @@
 # Miscellaneous-Mini-Scripts
-A Collection of Short and Unrelated Java Scripts
+A Collection of Short and Unrelated Scripts
 
 # OpenGmail
 This program accesses your gmail account and prints out the contents of your <br/> inbox in a formatted fashion, through the use of the JavaMail Library 
