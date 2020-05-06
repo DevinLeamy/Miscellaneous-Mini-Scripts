@@ -1,8 +1,6 @@
 Beauty and the Beast
 The Complete Script
 
-Compiled by Ben Scripps <34rqnpq@cmuvm.csv.cmich.edu>
-
 NARRATOR:     Once upon a time, in a faraway land, a young prince lived in a
               shining castle.  Although he had everything his heart desired,
               the prince was spoiled, selfish, and unkind.  But then, one
