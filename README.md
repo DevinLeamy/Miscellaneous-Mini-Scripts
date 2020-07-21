@@ -1,6 +1,8 @@
 # Miscellaneous-Mini-Scripts
 A Collection of Short and Unrelated Scripts
-
+# Mandelbrot
+This Python script will generate an N * N window displaying the Mandelbrot set. N is bounded by nothing apart from the <br/>
+resolution of your monitor! Go wild!
 # Messenger Prank
 After downloading the imports, running messenger.py [python3 messenger.py] and opening a messenger chat this script <br/>
 will type out and send the words contained in the movie.txt file one-by-one. Right now movie.txt contains the complete <br/>
